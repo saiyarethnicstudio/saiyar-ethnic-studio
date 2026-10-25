@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Illustration of a saree outfit">
+<rect width="800" height="1000" fill="#F3EADA"/>
+<path d="M110 1000 V430 A290 290 0 0 1 690 430 V1000 Z" fill="#fff" opacity=".45"/>
+<circle cx="130" cy="260" r="5" fill="#6B1E2E" opacity=".7"/><circle cx="670" cy="300" r="4" fill="#6B1E2E" opacity=".7"/><circle cx="110" cy="560" r="3" fill="#6B1E2E" opacity=".7"/><circle cx="700" cy="640" r="5" fill="#6B1E2E" opacity=".7"/><circle cx="640" cy="150" r="3" fill="#6B1E2E" opacity=".7"/><circle cx="170" cy="120" r="4" fill="#6B1E2E" opacity=".7"/><path d="M360 190 Q400 170 440 190 L458 335 Q474 490 506 705 L528 935 L272 935 L294 705 Q326 490 342 335 Z" fill="#C9AE78"/>
+    <path d="M350 232 L450 232 L458 335 L342 335 Z" fill="#897652"/>
+    <path d="M352 238 L478 335 Q568 530 548 935 L474 935 Q476 610 404 430 L342 335 Z" fill="#a58f62"/>
+    <rect x="272" y="900" width="256" height="35" fill="#6B1E2E"/>
+    <path d="M552 700 L548 935" stroke="#6B1E2E" stroke-width="10"/>
+    <path d="M340 560 L318 900 M372 520 L360 900 M404 520 L402 900 M436 520 L444 900" stroke="#897652" stroke-width="2" opacity=".45"/>
+<text x="400" y="982" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#897652" opacity=".6">Illustration · studio photo coming soon</text>
+</svg>

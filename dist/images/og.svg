@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Illustration of a choli outfit">
+<rect width="800" height="1000" fill="#F1E3DA"/>
+<path d="M110 1000 V430 A290 290 0 0 1 690 430 V1000 Z" fill="#fff" opacity=".45"/>
+<circle cx="130" cy="260" r="5" fill="#C8A96A" opacity=".7"/><circle cx="670" cy="300" r="4" fill="#C8A96A" opacity=".7"/><circle cx="110" cy="560" r="3" fill="#C8A96A" opacity=".7"/><circle cx="700" cy="640" r="5" fill="#C8A96A" opacity=".7"/><circle cx="640" cy="150" r="3" fill="#C8A96A" opacity=".7"/><circle cx="170" cy="120" r="4" fill="#C8A96A" opacity=".7"/><path d="M470 235 Q570 340 525 620 Q505 730 548 905" fill="none" stroke="#C8A96A" stroke-width="16" stroke-linecap="round" opacity=".85"/>
+    <path d="M335 225 Q400 275 465 225 L492 335 Q482 385 470 412 L330 412 Q318 385 308 335 Z" fill="#6B1E2E"/>
+    <rect x="330" y="404" width="140" height="22" fill="#C8A96A"/>
+    <path d="M330 424 L470 424 L615 905 Q400 950 185 905 Z" fill="#581926"/>
+    <path d="M200 858 Q400 905 600 858 L615 905 Q400 950 185 905 Z" fill="#C8A96A"/>
+    <path d="M400 430 L400 880 M350 430 L295 875 M450 430 L505 875" stroke="#C8A96A" stroke-width="2" opacity=".5"/>
+<text x="400" y="982" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#49141f" opacity=".6">Illustration · studio photo coming soon</text>
+</svg>

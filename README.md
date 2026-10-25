@@ -1,9 +1,9 @@
 # Saiyar Ethnic Studio website
 
-Multi-page rental-enquiry site. Zero dependencies: only Node 18+ is needed.
+ONE-PAGE rental-enquiry site (sections: home, collection, occasions, how it works, about, Instagram, FAQ, terms & privacy, contact). Products open in a popup; there are no product pages. A popup is shareable via a link like /#look-teal-festive-saree. Zero dependencies: only Node 18+ is needed.
 
 ## Run
-    node build.js      # generates ./dist (all pages, sitemap.xml, robots.txt)
+    node build.js      # generates ./dist (index.html, sitemap.xml, robots.txt)
     node serve.js      # preview at http://localhost:4173
     # or: npm start
 Deploy the contents of `dist/` to any static host (Netlify, Vercel, Cloudflare Pages, GitHub Pages).
